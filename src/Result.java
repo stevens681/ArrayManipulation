@@ -33,7 +33,7 @@ public class Result {
             res = Math.max(res, sum);
         }
 
-        
+
         return res;
 
     }
